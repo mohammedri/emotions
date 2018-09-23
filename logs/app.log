@@ -1,0 +1,6 @@
+{"message":"::1 - - [23/Sep/2018:01:39:31 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\"\n","level":"info"}
+{"message":"::1 - - [23/Sep/2018:01:39:31 +0000] \"GET /robots.txt HTTP/1.1\" 404 66 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\"\n","level":"info"}
+{"message":"::1 - - [23/Sep/2018:01:39:31 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\"\n","level":"info"}
+{"message":"::1 - - [23/Sep/2018:01:39:36 +0000] \"GET /fffff HTTP/1.1\" 404 66 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\"\n","level":"info"}
+{"message":"404 - Not Found - /fffff - GET - ::1","level":"error"}
+{"message":"::1 - - [23/Sep/2018:01:46:27 +0000] \"GET /fffff HTTP/1.1\" 404 66 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\"\n","level":"info"}
